@@ -1,4 +1,4 @@
-# Covid-19 Tracker in React App
+## Covid-19 Tracker in React App
 
 Demo: https://covid-19graph.netlify.app/
 ## Installation
@@ -8,6 +8,6 @@ Demo: https://covid-19graph.netlify.app/
 #### npm install
 #### Visit http://localhost:3000
 
-### API 
+## API 
 
 https://covid19.mathdro.id/api
